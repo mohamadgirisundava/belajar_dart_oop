@@ -6,3 +6,6 @@ class Sum {
 
   int call() => first + second;
 }
+
+typedef Total = Sum;
+typedef Jumlah = Sum;
